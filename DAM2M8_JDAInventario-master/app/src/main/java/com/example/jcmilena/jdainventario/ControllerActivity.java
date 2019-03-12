@@ -67,28 +67,6 @@ public class ControllerActivity extends AppCompatActivity implements AddEquipoFr
 
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     @Override
     public void writeSQLite(EquipoInformatico equipo) {
 
